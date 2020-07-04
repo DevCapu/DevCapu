@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Bem vindos!
 
-<!--
-**DevCapu/DevCapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como vocês devem ter visto, meu nome é Felipe Moreno Borges. Atualmente atuo como desenvolvedor mobile. Comecei a estudar programação em 2015 (eu tinha 14 anos), mais especifico estudando PHP (que é minha linguagem do coração até hoje) e Java.
 
-Here are some ideas to get you started:
+Bom se você tiver por aqui acho que dois respositórios legais para entender um pouco mais do meu trabalho seriam:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Rangão](https://github.com/DevCapu/rangao)
+- [Nutricionist Calculator](https://github.com/DevCapu/nutricionist-calculator)
+
+Esses projetos representam bem o que eu quero como carreira, criar softwares que realmente possam melhorar o estilo de vida das pessoas melhorando a saúde física e psicológica.
+
+- 💻 HTML, CSS e JS foi onde eu comecei a engatar com programação
+- 🌱 Tenho estudado bastante sobre S.O.L.I.D, arquitetura de softwatre e boas práticas.
+- 📚 Amo conversar sobre sociologia e filosofia
+- ✏️ Escrevo uns poemas
