@@ -15,3 +15,5 @@ Esses projetos representam bem o que eu quero como carreira, criar softwares que
 - 🌱 Tenho estudado bastante sobre S.O.L.I.D, arquitetura de softwatre e boas práticas.
 - 📚 Amo conversar sobre sociologia e filosofia
 - ✏️ Escrevo uns poemas
+
+![Devcapu's github stats](https://github-readme-stats.vercel.app/api?username=devcapu&show_icons=true)
