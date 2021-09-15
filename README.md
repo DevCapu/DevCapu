@@ -12,7 +12,7 @@ Esses projetos representam bem o que eu quero como carreira, criar softwares que
 
   <ul>
     <li> 💻 HTML, CSS e JS foi onde eu comecei a engatar com programação </li>
-    <li>🌱 Tenho estudado bastante sobre S.O.L.I.D, arquitetura de softwatre e boas práticas.</li>
+    <li>🌱 Tenho estudado bastante sobre S.O.L.I.D, arquitetura de software e boas práticas.</li>
     <li>📚 Amo conversar sobre sociologia e filosofia</li>
     <li>✏️ Escrevo uns poemas</li>
   </ul>
