@@ -6,7 +6,7 @@
 Bom se você tiver por aqui acho que dois respositórios legais para entender um pouco mais do meu trabalho seriam:
 
  <a href="https://github.com/DevCapu/rangao">Rangão</a><br>
- <a href="https://github.com/DevCapu/bee">Bee Healthy</a>
+ <a href="https://github.com/DevCapu/BeeHealthy">Bee Healthy</a>
 
 Esses projetos representam bem o que eu quero como carreira, criar softwares que realmente possam melhorar o estilo de vida das pessoas melhorando a saúde física e psicológica.
 
