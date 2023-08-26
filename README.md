@@ -1,9 +1,12 @@
 ## 👋 Bem vindos!
-  <img src="https://github.com/DevCapu/DevCapu/blob/master/octocat.png" width="50%" align="right"/>
-  
-  Como vocês devem ter visto, meu nome é Felipe Moreno Borges. Atualmente atuo como desenvolvedor mobile. Comecei a estudar programação em 2015 (eu tinha 14 anos),       mais especifico estudando PHP (que é minha linguagem do coração até hoje) e Java.
 
-Bom se você tiver por aqui acho que dois respositórios legais para entender um pouco mais do meu trabalho seriam:
+<img src="https://github.com/DevCapu/DevCapu/blob/master/octocat.png" width="50%" align="right"/>
+Graduado em Ciência da Computação e atualmente estou cursando um MBA em Desenvolvimento Mobile. Sou apaixonado por tecnologia, vejo nela a possibilidade de melhorar a vida das pessoas além de uni-las. 
+
+Meu foco principal está voltado para o desenvolvimento mobile, com especialização nas plataformas Android e iOS, utilizando linguagens como Java, Kotlin e Swift. Minha expertise abrange algoritmos, estruturas de dados, bancos de dados e redes. Uma das minhas realizações foi liderar a migração de projetos do iOS para o Android, criando aplicativos desde o início do processo. Nos meus projetos, aplico práticas como TDD, Construção de Segurança, CI/CD, bem como um design voltado para a experiência móvel.
+
+Também atuei como instrutor e criador de conteúdo Android, com foco em Jetpack Compose e testes no ambiente Android, influenciando positivamente milhares de estudantes. Além disso, participei do desenvolvimento e manutenção de funcionalidades escaláveis em aplicativos educacionais que abrangem codificação, idiomas, música e programação voltados para crianças. Analisei e auxiliei alunos em projetos de UX e frontend.
+
 
  <a href="https://github.com/DevCapu/rangao">Rangão</a><br>
  <a href="https://github.com/DevCapu/BeeHealthy">Bee Healthy</a>
